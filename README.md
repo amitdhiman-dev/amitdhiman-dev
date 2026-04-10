@@ -1,110 +1,98 @@
-# 👋 Amit Dhiman
+Amit Dhiman
 
-**Full-Stack Engineer → AI Engineer**
+Full-Stack Engineer → AI Engineer
 
-📍 Gurugram, India
-📧 [dhimanamitkkr@gmail.com](mailto:dhimanamitkkr@gmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/amitdhiman07)
+Location: Gurugram, India
+Email: dhimanamitkkr@gmail.com
 
----
+LinkedIn: https://linkedin.com/in/amitdhiman07
 
-## 🚀 About Me
+About Me
 
-Full-Stack Engineer with experience building scalable enterprise applications in **HR and Finance domains**.
+Full-Stack Engineer with hands-on experience building scalable enterprise applications in HR and Finance domains. Strong expertise in designing high-performance backend systems and modern frontend architectures.
 
-I specialize in:
+Currently transitioning into AI Engineering, focusing on building production-grade systems using RAG pipelines, LLM integrations, and agentic workflows. I combine enterprise software experience with applied AI to deliver intelligent, scalable solutions.
 
-* High-performance APIs (Node.js, PostgreSQL)
-* Modern frontend systems (React, TypeScript)
-* AI systems (RAG, LLMs, Agentic Workflows)
+Technical Skills
+Frontend
+React, TypeScript, JavaScript (ES6+)
+Tailwind CSS, Angular
+Responsive UI Design
+Backend
+Node.js, Express.js
+Python (FastAPI, Flask)
+Java (Spring Boot)
+REST API Design, JWT Authentication
+Rate Limiting, Pagination, Secure API Design
+Database
+PostgreSQL, Redis
+SQL Optimization, Indexing, Stored Procedures
+Sequelize ORM
+AI & Machine Learning
+Retrieval-Augmented Generation (RAG)
+LLM Integration (Local + Cloud)
+LangChain, Ollama, LM Studio
+Vector Databases (Qdrant)
+Prompt Engineering, Agentic Workflows
+OpenAI Whisper (Speech-to-Text)
+Tools & Practices
+Docker, Docker Compose
+Git, GitHub Copilot
+Postman
+Agile / Scrum
+Professional Experience
+Associate Software Engineer
 
-Currently focused on building **intelligent enterprise applications using local and production-grade LLMs**.
+MPC Cloud Consulting Pvt. Ltd. — Gurugram, India
+July 2024 – November 2025
 
----
+Engineered scalable REST APIs for enterprise invoice processing systems using Node.js and PostgreSQL.
+Improved database query performance by 35% through indexing and query optimization.
+Implemented authentication, rate limiting, and pagination for high-concurrency workloads.
+Built reusable frontend components in React and TypeScript, reducing development time by 20%.
+Developed HRIS onboarding workflows with multi-stage approval systems.
+Contributed to full-stack modules using Node.js, Spring Boot, React, and Angular.
+Worked in Agile environments with sprint planning, code reviews, and iterative delivery.
+Projects
+Invoice Processing System
+Scalable backend for financial workflows and transaction processing.
+Implemented pagination, caching, and rate limiting.
+Stack: Node.js, PostgreSQL, React
+HRIS Onboarding System
+Vendor onboarding and approval workflow system.
+Built dashboards with bulk operations for operational efficiency.
+Stack: React, Node.js, PostgreSQL
+Lumina — AI Study Assistant (RAG System)
+Built a document-based Q&A system using local LLMs.
+Implemented full RAG pipeline: document parsing, embeddings, retrieval, and response generation.
+Integrated Qdrant vector database with LangChain orchestration.
+Developed FastAPI backend and React (Vite) frontend.
+Containerized with Docker Compose and deployed via Nginx.
 
-## 🧠 Tech Stack
+Tech: Python, FastAPI, LangChain, Qdrant, Ollama, React, Docker
 
-**Frontend**
+Convo — Conversational AI Chatbot (In Development)
+Full-stack conversational AI system supporting local and cloud LLMs.
+Implemented real-time streaming responses and session-based memory.
+Integrated speech-to-text using OpenAI Whisper.
+Designed secure, production-ready architecture with JWT and Docker orchestration.
 
-* React, TypeScript, Tailwind, Angular
+Tech: Python, Flask, React, Whisper, Docker
 
-**Backend**
+Education
 
-* Node.js, Express, Java (Spring Boot)
+Post Graduate Diploma — Wireless Information Technology
+Fleming College, Ontario, Canada
 
-**Database**
+Bachelor of Technology — Instrumentation & Control Engineering
+Kurukshetra University, India
 
-* PostgreSQL, Redis
-
-**AI**
-
-* RAG, LangChain, Ollama, LM Studio, Prompt Engineering
-
-**Tools**
-
-* Docker, Git, Postman, Agile
-
----
-
-## 💼 Experience
-
-### Associate Software Engineer — MPC Cloud Consulting
-
-* Built scalable REST APIs for invoice processing systems
-* Improved query performance by **35%** via SQL optimization
-* Developed HRIS onboarding workflows with multi-stage approvals
-* Reduced feature development time by **20%** using reusable components
-
----
-
-## 🔥 Projects
-
-### 📊 Invoice Processing System
-
-* Scalable backend for financial workflows
-* Features: pagination, caching, rate limiting
-* Stack: Node.js, PostgreSQL, React
-
----
-
-### 👥 HRIS Onboarding System
-
-* Vendor onboarding + approval workflows
-* Built dashboards with bulk operations
-* Stack: React, Node.js, PostgreSQL
-
----
-
-### 🤖 RAG Knowledge Assistant (In Progress)
-
-* Document Q&A using local LLMs
-* Vector search + embeddings
-* Stack: Ollama, LangChain, Docker
-
----
-
-### ⚡ Agentic AI Workflows (In Progress)
-
-* Multi-step automation using LLMs
-* Tool integration + orchestration
-
----
-
-## 📚 Education
-
-* PG Diploma — Wireless IT (Canada)
-* B.Tech — Instrumentation & Control
-
----
-
-## 📈 What I’m Focused On
-
-* Building production-ready AI systems
-* Combining enterprise systems with LLM intelligence
-* Performance + scalability engineering
-
----
-
-## ⚡ Fun Fact
-
-I optimize both **SQL queries** and **LLM prompts** 😄
+Certifications
+Google Data Analytics Professional Certificate
+Python for Data Science, AI and Development (IBM - Coursera)
+Data Visualization and Dashboards with Excel and Cognos
+Current Focus
+Building production-ready AI systems
+Designing scalable RAG architectures
+Developing agentic workflows and automation systems
+Combining enterprise software engineering with LLM-driven intelligence
